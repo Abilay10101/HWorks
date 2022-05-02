@@ -1,5 +1,6 @@
 # HWorks
-Homeworks
+
+Akhmetov Abylay (id: 210103019)
 
 HW = Homework
 
